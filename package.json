@@ -1,0 +1,10 @@
+{
+    "name": "html-to-pdf",
+    "email": "pablo@coink.com",
+    "version": "0.0.1",
+    "dependencies": {
+        "memorystream": "^0.3.1",
+        "node-uuid-generator": "^1.0.0",
+        "wkhtmltopdf": "^0.1.5"
+    }
+}
